@@ -20,7 +20,7 @@ lisse-shop -- это интернет-магазин качественной р
 - Vue.js
 - FastAPI
 - Python 3.6
-- ORM
+- SQLAlchemy
 
 ## Запуск и работа с mini-app
 
